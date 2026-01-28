@@ -1,0 +1,8 @@
+1. WAP to find the area and perimeter of circle
+2. WAP to find the TSA, volume and CSA of cylinder
+3. WAP to print the ASCII value of characters
+4. WAP to do simple arithmetic problem of two number
+5. WAP to find the simple interest
+6. WAP to convert temperature Celsius to Fahrenheit and Celsius to Kelvin
+7. WAP to find square and square root of number
+8. WAP to find price of n mangoes given the price of a dozen mangoes 
